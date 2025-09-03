@@ -1,3 +1,22 @@
-div{
-  color: red;
+*{
+  padding: 0;
+  margin: 0;
+  /* border: 0; */
+  box-sizing: border-box;
 }
+
+.test{
+width: 20px;
+height: 20px;
+border: 1px solid #000;
+background-color: pink;
+padding-left: 5px;
+margin-top: 20px;
+}
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  /* padding-top: 20px; */
+}
+ 
